@@ -1,4 +1,4 @@
-A parser to fetch the JPL Sweet ontology and load it into Neo4J for cool graph queries and examination.
+A ruby parser using linkeddata and RDF to fetch the [JPL Sweet](https://sweet.jpl.nasa.gov) ontology and load it into Neo4J for cool graph queries and examination.
 
 ```ruby
 # Set the following variables in parser.rb and let the magic happen
